@@ -2,3 +2,5 @@ Argentina
 Brasil
 Canadá
 Estados Unidos
+México
+Guatemala
