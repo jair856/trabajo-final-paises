@@ -7,4 +7,6 @@ Guatemala
 Costa Rica
 Panamá
 Colombia
-Peru 
+Peru
+Uruguay
+Chile
