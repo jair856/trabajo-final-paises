@@ -2,3 +2,7 @@ Argentina
 Brasil
 Canadá
 Estados Unidos
+México
+Guatemala
+Costa Rica
+Panamá
