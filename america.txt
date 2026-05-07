@@ -6,3 +6,5 @@ México
 Guatemala
 Costa Rica
 Panamá
+Colombia
+Peru 

@@ -6,3 +6,5 @@ Samoa
 Tonga
 Vanuatu
 Islas Salomón
+Palaos
+Micronesia 
